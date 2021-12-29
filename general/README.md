@@ -3,4 +3,4 @@ If your file is both applicable for vanilla and modded games, like console comma
 
 ## Folders
 ### lua
-- Custom scripts and snippets, useful in both vanilla and modded
+Custom scripts and snippets, useful in both vanilla and modded
