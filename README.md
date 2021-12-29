@@ -2,7 +2,7 @@
 Collection of community-made data sets
 
 ## Contributing
-If you want to add a piece of information to this database, create a pull request (GitHub account needed) and wait for it being reviewed. 
+If you want to add a piece of information to this database, create a pull request (GitHub account needed) and wait for it being reviewed. Also make sure to update the corresponding README file.  
 Alternatively, you can check out the SpellForce Discord and post in the #spellforce1_mods channel and let someone else upload it to this repository.
 
 ### Guidelines
